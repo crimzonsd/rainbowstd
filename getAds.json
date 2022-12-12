@@ -9,10 +9,14 @@
       "banneradmob" : "ca-app-pub-1237974949249895/4685323269",
       "interadmob" : "ca-app-pub-1237974949249895/9934862083",  
       "openadmob" : "ca-app-pub-1237974949249895/8621780412",
+      "sdkapp" : "f1ea6f1ed675ba27",
       "bannerapp" : "f1ea6f1ed675ba27",
       "interapp" : "ae8e96b29b3e0218",  
+      "reward" : "3f32fe038fa135d3",  
+      "openapp" : "305ea1b145f7f3dd",  
       "rwdCount" : "5",
       "startiotest" :"false",
+      "url" :"https://crimzonsd.github.io/rainbowstd/moreApp.json",
       "limit" :"true"
     }
 ]
