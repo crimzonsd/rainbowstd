@@ -1,0 +1,18 @@
+[
+    {
+      "limitads" : "2000",
+      "limittimer" : "5",
+      "moreapp" : "false",
+      "mode" : "0",
+      "apps" : "Gecko Sound",
+      "appidadmob" : "",
+      "banneradmob" : "",
+      "interadmob" : "",  
+      "openadmob" : "",
+      "bannerapp" : "",
+      "interapp" : "",  
+      "rwdCount" : "5",
+      "startiotest" :"false",
+      "limit" :"true"
+    }
+]
