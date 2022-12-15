@@ -18,5 +18,25 @@
       "startiotest" :"false",
       "url" :"https://crimzonsd.github.io/rainbowstd/moreApp.json",
       "limit" :"true"
+    },
+    {
+      "limitads" : "2000",
+      "limittimer" : "5",
+      "moreapp" : "false",
+      "mode" : "0",
+      "apps" : "Police Siren Sound",
+      "appidadmob" : "ca-app-pub-1237974949249895~7988932002",
+      "banneradmob" : "ca-app-pub-1237974949249895/3554862979",
+      "interadmob" : "ca-app-pub-1237974949249895/1183603083",  
+      "openadmob" : "ca-app-pub-1237974949249895/9389396161",
+      "sdkapp" : "8dT05HPb-ZhQc-5aW8-tbbOUqgZoMxv1teJ05FhEOs7KIfB4lsQy2aBoOZ8hHwwhW7-u5S79IS1OU4bM6G60ML",
+      "bannerapp" : "9c2924322e278b05",
+      "interapp" : "ec0d4e49efbefd64",  
+      "reward" : "850c1fcb2c361383",  
+      "openapp" : "4d2a823deadc9d89",  
+      "rwdCount" : "5",
+      "startiotest" :"false",
+      "url" :"https://crimzonsd.github.io/rainbowstd/moreApp.json",
+      "limit" :"true"
     }
 ]
